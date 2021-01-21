@@ -35,7 +35,7 @@ components:
         containerPath: /home/user/.m2
   - type: dockerimage
     alias: jetty
-    image: quay.io/eclipse/quay.io/ibm/jetty:11.0-jdk11
+    image: quay.io/ibm/jetty:11.0-jdk11
     memoryLimit: 300Mi
     endpoints:
       - name: 'jetty'
