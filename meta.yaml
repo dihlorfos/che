@@ -1,6 +1,0 @@
----
-displayName: Java with Jetty
-description: Java stack with OpenJDK 8 and Jetty demo aplication
-tags: ["Java", "OpenJDK", "Maven", "Jetty"]
-icon: /images/jetty.svg
-globalMemoryLimit: 1000Mi
